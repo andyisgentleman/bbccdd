@@ -1,4 +1,6 @@
 
+[![Build Status](https://clt-695180e5-ac76-4a9c-8f71-b8de9e99de44.visualstudio.com/andytest/_apis/build/status/andydevops%20-%20CI)](https://clt-695180e5-ac76-4a9c-8f71-b8de9e99de44.visualstudio.com/andytest/_build/latest?definitionId=1)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
